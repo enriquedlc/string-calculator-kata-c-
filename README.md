@@ -1,1 +1,1 @@
-﻿# string-calculator-kata-c
+﻿# string-calculator-kata-csharp
